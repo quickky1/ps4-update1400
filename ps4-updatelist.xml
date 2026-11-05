@@ -5,5 +5,9 @@
 				<image size="503331328">http://pc.ps4.update.playstation.net/update/ps4/image/2026_0831/sys_8b844e5e5bb63ed19ef64b8971b400b0/PS4UPDATE.PUP</image>
 			</update_data>
 		</system_pup>
+		<recovery_pup type="default">
+			<system_pup label="14.00" sdk_version="14.000.000" version="14.000.000"/>
+			<image size="1083638784">http://pc.ps4.update.playstation.net/update/ps4/image/2026_0831/rec_f6a3206393b32855b8bf533cc5a4d29a/PS4UPDATE.PUP</image>
+		</recovery_pup>
 	</region>
 </update_data_list>
